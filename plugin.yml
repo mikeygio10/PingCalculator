@@ -1,0 +1,9 @@
+name: PingCalculator
+api: 3.3.1
+main: korado531m7\PingCalculator\PingCalculator
+version: 1.0.0
+author: korado531m7
+description: Calculate players ping
+commands:
+ ping:
+  description: Calculate your ping
