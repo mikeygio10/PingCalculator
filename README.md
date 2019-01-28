@@ -12,11 +12,7 @@ Type '/ping' in your server
 
 ### Settings
 If you want to edit messages, open config.yml and edit it.
-
-* `calculation-started` - Send when started calculation
-
 * `ping-message`        - After calculated, this will be sent
-
-Replacement
-* `%player`    - Player's name
-* `%ping`      - Ping
+ * Replacement
+ * `%player`    - Player's name
+ * `%ping`      - Ping

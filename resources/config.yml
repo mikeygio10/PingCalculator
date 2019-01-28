@@ -2,14 +2,10 @@
 
 # ----------------------------------------------------------------------------
 
-# Send when started calculation
-
-calculation-started: §aPong! Calculating your ping...
-
-# ----------------------------------------------------------------------------
-
 # After calculated, this will be sent
 # Replacement:   %player : player's name
 #                %ping   : player's ping
 
 ping-message: §aYour ping is %ping
+
+# ----------------------------------------------------------------------------
